@@ -87,7 +87,7 @@
     "https-proxy-agent": "^7.0.0",
     "js-yaml": "^4.0.0",
     "jsonpath": "^1.1.1",
-    "node-html-parser": "^6.0.0",
+    "node-html-parser": "^6.1.12",
     "parse-github-repo-url": "^1.4.1",
     "semver": "^7.5.3",
     "type-fest": "^3.0.0",
